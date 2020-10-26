@@ -17,6 +17,8 @@ p {
 
 a {
     color: var(--color-accent);
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 h1 {
@@ -54,6 +56,7 @@ article {
 
 /* - - - - - - COLOUR - - - - - - */
 
+
 /* Initial colours identified */
 body {
     --color-accent: RosyBrown;
@@ -68,8 +71,8 @@ body {
 }
 .button-icon:hover,
 .button-icon:focus,
- {
-
+.active {
+    border-bottom: 2px solid var(--color-background);
 }
 .button-contact {
     border-bottom: 2px solid var(--color-accent);
@@ -81,18 +84,15 @@ body {
     border: 2px solid var(--color-accent);
     margin: 10px 10px 0px 0px;
 }
-.button-accent a {
-    color: var(--color-accent);
-    text-transform: uppercase;
-    text-align: center;
-    text-decoration: none;
-    font-weight: 600;
+
+.button-accent:hover, 
+.button-accent:focus {
+    border-color: var(--color-background);
 }
 
 /* = = = = = = = = = = = = = = =   HEADER + FOOTER   = = = = = = = = = = = = = = = */
 header,
 footer {
-    height: 60px;;
     left: 0;
     right: 0;
 }
@@ -102,7 +102,7 @@ header {
     top: 0;
     height: 60px;
     background-color: var(--color-background);
-    border-bottom: 2px solid var(--color-accent);
+    border-bottom: 3px solid var(--color-accent);
     position: absolute;
 }
 
@@ -113,12 +113,17 @@ footer {
 }
 
 header * {
-    display: inline;
+    margin-top: 0;
+    display: inline-block;
 }
 
 nav {
     display: flex;
     justify-content: center;
+}
+
+nav a {
+    color: var(--color-background);
 }
 
 nav li {
@@ -130,6 +135,10 @@ nav li {
 #social-buttons {
     padding: 10px 10px 10px 0px;
     float: right;
+}
+
+#social-buttons a {
+    color: var(--color-accent)
 }
 
 #rotation {

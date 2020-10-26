@@ -26,3 +26,8 @@ Credits and a massive thanks to [W3Schools](https://www.w3schools.com/howto/howt
 ### Media
 Portrait and hero picture were taken by the great Ann Charlotte Voie. All other pictures were taken by me.
 ### Acknowledgements
+
+## TO DO: 
+* About me page: add CV file
+* remove focus for "to top" button
+* look into ipad pro photography page

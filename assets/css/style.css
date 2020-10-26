@@ -19,19 +19,32 @@ a {
     color: Black;
 }
 
+h1 {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 150%;
+}
+
+article {
+    margin-left: 150px;
+    margin-right: 100px;
+    max-width: 50vw;
+}
+
+.rotation {
+    font-family: 'Share Tech Mono', monospace;
+}
+
 #logo-header {
     font-size: 200%;
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
 }
 
-h1 {
-    font-family: 'Share Tech Mono', monospace;
-    font-size: 150%;
-}
+#hero-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 10vh;
+    margin-top: 0;
 
-.rotation {
-    font-family: 'Share Tech Mono', monospace;
 }
 
 /* - - - - - - COLOUR - - - - - - */
@@ -46,7 +59,7 @@ body {
 /* - - - - - -   BUTTONS   - - - - - - */
 .button-icon {
     font-size: 125%;
-    padding: 10px; 
+    padding: 10px;
 }
 .button-icon:hover,
 .button-icon:focus,
@@ -110,5 +123,4 @@ nav li {
 .main {
     padding-top: 60px;
     height: 100vh;
-    background-color: var(--color-text);
 }

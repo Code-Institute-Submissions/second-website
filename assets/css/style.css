@@ -6,10 +6,10 @@
 body {
     margin: 0 auto;
     font-family: 'Rubik', sans-serif;
-    height: 100vh;
     background-color: var(--color-text);
     background-attachment: fixed;
     background-repeat: no-repeat;
+    min-height: 100vh;
 }
 
 ul {
@@ -70,6 +70,10 @@ h3 {
     font-size: 75%;
     letter-spacing: 3px;
     margin: 25px 0px 5px 0px;
+}
+
+.lite {
+    font-weight: 300;
 }
 
 .rotation {
@@ -240,7 +244,6 @@ main {
 /* = = = = = = = = = = = = = = = - - - - -   PROJECTS PAGE   - - - - - = = = = = = = = = = = = = = = */
 #projects {
     background-image: url("../img/photography/portfolio-5893.jpg");
-    min-height: 100vh;
 }
 
 #projects .wide-haze-container {
@@ -275,9 +278,10 @@ main {
 
 #about .wide-haze-container>section {
     display: inline-grid;
-    background: rgba(248, 248, 255,0.3);
+    background: rgba(248, 248, 255,0.5);
     margin: 0px 5px 0px 5px;
     min-width: 400px;
+    min-height: 400px;
     width: 30vw;
     padding: 20px;
     border-bottom: 2px solid var(--color-background);

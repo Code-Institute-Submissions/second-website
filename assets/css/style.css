@@ -66,9 +66,22 @@ body {
  {
 
 }
-
 .button-contact {
     border-bottom: 2px solid var(--color-accent);
+}
+
+.button-accent {
+    display: inline-block;
+    padding: 5px 30px 5px 30px;
+    border: 2px solid var(--color-accent);
+    margin: 10px;
+}
+.button-accent a {
+    color: var(--color-accent);
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
 }
 
 /* = = = = = = = = = = = = = = =   HEADER + FOOTER   = = = = = = = = = = = = = = = */

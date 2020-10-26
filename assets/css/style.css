@@ -16,7 +16,7 @@ p {
 }
 
 a {
-    color: Black;
+    color: var(--color-accent);
 }
 
 h1 {
@@ -25,8 +25,8 @@ h1 {
 }
 
 article {
-    margin-left: 150px;
-    margin-right: 100px;
+    margin-left: 15vw;
+    margin-right: 30vw;
     max-width: 50vw;
 }
 
@@ -35,15 +35,20 @@ article {
 }
 
 #logo-header {
+    margin-left: 30px;
     font-size: 200%;
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
 }
 
 #hero-text {
-    font-family: 'Playfair Display', serif;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-family: 'Homemade Apple', serif;
     font-size: 10vh;
     margin-top: 0;
+    color: var(--color-background);
+    opacity: 70%;
 
 }
 
@@ -74,7 +79,7 @@ body {
     display: inline-block;
     padding: 5px 30px 5px 30px;
     border: 2px solid var(--color-accent);
-    margin: 10px;
+    margin: 10px 10px 0px 0px;
 }
 .button-accent a {
     color: var(--color-accent);
@@ -136,4 +141,13 @@ nav li {
 .main {
     padding-top: 60px;
     height: 100vh;
+}
+
+/* = = = = = = = = = = = = = = = - - - - -   INDEX PAGE   - - - - - = = = = = = = = = = = = = = = */
+#landing {
+    background-image: url("../img/landing-background.jpg");
+    background-color: var(--clr-accent, RosyBrown);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: center;
 }

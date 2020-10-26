@@ -22,8 +22,7 @@ CSS
 ## Deployment
 ## Credits
 ### Content
-Credits and a massive thanks to W3Schools for teaching me how to implement a sidebar.
-Image height calculations for the slideshow were gathered from Stackoverflow
+Credits and a massive thanks to [W3Schools](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp) for teaching me how to implement the back to top button.
 ### Media
 Portrait and hero picture were taken by the great Ann Charlotte Voie. All other pictures were taken by me.
 ### Acknowledgements

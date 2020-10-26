@@ -76,11 +76,15 @@ h3 {
     font-family: 'Share Tech Mono', monospace;
 }
 
-#logo-header {
+#logo-header,
+#logo-header>a {
     margin-left: 30px;
-    font-size: 200%;
+    font-size: 35px;
+    font-weight: 300;
     font-family: 'Rubik', sans-serif;
     text-transform: uppercase;
+    color: var(--color-text);
+
 }
 
 #hero-text {
@@ -296,7 +300,7 @@ main {
     height: 10px;
     align-content: left;
     background-color: var(--color-accent);
-    margin: 5px 0px 0px 0px;
+    margin: 0;
 }
 #skills-python {
     width: 85%;

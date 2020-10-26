@@ -8,6 +8,8 @@ body {
     font-family: 'Rubik', sans-serif;
     height: 100vh;
     background-color: var(--color-text);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 ul {
@@ -214,10 +216,7 @@ nav li {
 /* = = = = = = = = = = = = = = = - - - - -   PROJECTS PAGE   - - - - - = = = = = = = = = = = = = = = */
 #projects {
     background-image: url("../img/photography/portfolio-5893.jpg");
-    background-size: cover;
-    background-color: var(--color-text);
-    background-position: center;
-    background-repeat: repeat-y;
+    min-height: 100vh;
 }
 
 #projects-inner {
@@ -229,8 +228,8 @@ nav li {
     width: 100%;
     text-align: center;
     justify-content: center;
-    background: rgba(248, 248, 255,0.5);
-    margin-bottom: 60px;
+    background: rgba(248, 248, 255,0.3);
+    margin-bottom: 100px;
 }
 
 .project {

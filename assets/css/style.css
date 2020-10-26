@@ -65,9 +65,9 @@ h1 {
 
 /* - - - - - - COLOUR - - - - - - */
 body {
-    --color-accent: DarkOliveGreen;
+    --color-accent: DarkSlateGray;
     --color-background: GhostWhite;
-    --color-text: Black;
+    --color-text: DarkSlateGray;
 }
 
 /* - - - - - -   BUTTONS   - - - - - - */
@@ -78,11 +78,13 @@ body {
 .button-icon:hover,
 .button-icon:focus,
 .active {
-    border-bottom: 2px solid var(--color-accent);
+    color: var(--color-accent);
+    border-bottom: 2px solid var(--color-background);
 }
 
 .button-contact {
     border-bottom: 2px solid var(--color-accent);
+    animation: shake 2s linear infinite;
 }
 
 .button-accent {
@@ -95,6 +97,16 @@ body {
 .button-accent:hover, 
 .button-accent:focus {
     border-color: var(--color-background);
+}
+
+@keyframes shake {
+    0%   {}
+    5%   {transform: rotate(20deg)}
+    10%  {transform: rotate(-5deg)}
+    15%  {transform: rotate(5deg)}
+    20%  {transform: rotate(-15deg)}
+    25%  {transform: rotate(0deg)}
+    100% {}
 }
 
 /* = = = = = = = = = = = = = = =   HEADER + FOOTER   = = = = = = = = = = = = = = = */

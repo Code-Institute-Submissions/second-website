@@ -109,4 +109,6 @@ nav li {
 /* = = = = = = = = = = = = = = =   MAIN   = = = = = = = = = = = = = = = */
 .main {
     padding-top: 60px;
+    height: 100vh;
+    background-color: var(--color-text);
 }

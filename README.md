@@ -1,12 +1,5 @@
 # Jildou de Vries photography and projects website
 
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-
 ## User Experience (UX)
 This website aims to give potential clients an impression of my capacities as both a programmer and a photographer.
 ###User stories
@@ -22,8 +15,8 @@ This website aims to give potential clients an impression of my capacities as bo
 ###Design
 * Colour scheme
 	* The main colours is a soft pink. The other colours used are mainly grayscale.
-* Typogrophy
-	* The main font used Rubik, which falls back onto sans-sarif if unavailable. Share Tech Mono for the logo heading, falling back onto monospace if unavailable.
+* Typography
+	* The main font used Rubik, which falls back onto sans-serif if unavailable. Share Tech Mono for the logo heading, falling back onto monospace if unavailable.
 * Imagery
 	* The website relies heavily on images. I used my own photography in most spaces. 
 	* For the dummy projects, I have used the logo of [Praat mar Frysk](https://www.praatmarfrysk.nl/wp-content/themes/vanilla/framework/images/pmf-noimage.jpg)
@@ -32,7 +25,8 @@ This website aims to give potential clients an impression of my capacities as bo
 
 ## Features
 * Responsive on mobile and tablet as well as desktop sizes.
-* The photography page has an intentional side scroll on desktop size. On mobile device sizes the pictures are displayed vertically stacked. 
+* The photography page has an intentional side scroll on desktop size. On mobile device sizes the pictures are displayed vertically stacked.
+* The positioning of the wiggling contact buttons in desktop mode is intentional. The bottom border over the header line was a style choice. 
 
 ## Technologies used
 ###Languages used
@@ -64,12 +58,12 @@ Testing was done through W3C markup Validator and the W3C CSS Validator Services
 	* As a first time visitor, I want to have an easy way to contact the service.
 		* The landing page, as well as all other pages have quick buttons to social media platforms. All pages also hold buttons for direct calls to action for phone calls or emails. These buttons are given emphasise through 
 	* As a first time visitor that is in need of an event photographer, I want to see sharp picture without too many distractions. Pictures should speak for themselves.
-		* The photographs page is easily navigated to and is responsively optimised for each device type. On desktop, the images are desplayed horizontally with a side scroll. On mobile display they are stacked vertically.
+		* The photographs page is easily navigated to and is responsively optimised for each device type. On desktop, the images are displayed horizontally with a side scroll. On mobile display they are stacked vertically.
 	* As a first time visitor that is a hiring manager for software developer positions I want to see a well balanced.
-		* As the page at the moment only holds dummy projects, this is what is contained here. The design shows the logo of the project, along with a short description of it. Each project also has a link to visit the project online, and, for portfolio purposes, a link to the github repo of the project.
+		* As the page at the moment only holds dummy projects, this is what is contained here. The design shows the logo of the project, along with a short description of it. Each project also has a link to visit the project online, and, for portfolio purposes, a link to the GitHub repository of the project.
 * Returning visitor goals
 	* As a returning visitor I want to have an easy way to contact the services.
-		* The contact buttons that are linked to phone and email are easily accessable on the top of the page.
+		* The contact buttons that are linked to phone and email are easily accessible on the top of the page.
 
 ### Further testing
 * The website was tested on Safari and Google Chrome browsers.

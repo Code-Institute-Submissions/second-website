@@ -2,7 +2,8 @@
 
 ## User Experience (UX)
 This website aims to give potential clients an impression of my capacities as both a programmer and a photographer.
-###User stories
+
+### User stories
 * First time visitor goals
 	* As a first time visitor, I want to get a clear impression on landing. 
 	* As a first time visitor, I also want a clear and simple navigation.
@@ -12,7 +13,7 @@ This website aims to give potential clients an impression of my capacities as bo
 * Returning visitor goals
 	* As a returning visitor I want to have an easy way to contact the services.
 
-###Design
+### Design
 * Colour scheme
 	* The main colours is a soft pink. The other colours used are mainly grayscale.
 * Typography
@@ -30,12 +31,13 @@ This website aims to give potential clients an impression of my capacities as bo
 * Navigation menu is intentionally at the bottom of the page, taking into consideration that the majority of users is expected to be using a mobile device. This provides easy access.
 
 ## Technologies used
-###Languages used
+
+### Languages used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-###Frameworks, Libraries & Programs 
+### Frameworks, Libraries & Programs 
 * [Google Fonts](https://fonts.google.com/)
 	* Goole Fonts were used to import both the Rubik as well as the Share Tech Mono font into the style.css file. This is used on all pages of the project.
 * [Font Awesome](https://fontawesome.com/)
@@ -73,7 +75,7 @@ Testing was done through W3C markup Validator and the W3C CSS Validator Services
 * Accessibility was tested by making sure all the images have alt information.
 
 ## Deployment
-###GitHub Pages
+### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/jildourixt/second-website.git)
@@ -83,7 +85,7 @@ The project was deployed to GitHub Pages using the following steps...
 6. The page will automatically refresh.
 Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
-###Forking the GitHub Repository
+### Forking the GitHub Repository
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
@@ -91,7 +93,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
-###Making a Local Clone
+### Making a Local Clone
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/jildourixt/second-website.git)
 2. Under the repository name, click "Clone or download".

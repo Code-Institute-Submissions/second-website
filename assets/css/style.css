@@ -142,13 +142,11 @@ body {
 }
 
 @keyframes shake {
-    0%   {}
     5%   {transform: rotate(20deg)}
     10%  {transform: rotate(-5deg)}
     15%  {transform: rotate(5deg)}
     20%  {transform: rotate(-15deg)}
     25%  {transform: rotate(0deg)}
-    100% {}
 }
 
 /* HEADER + FOOTER */
@@ -304,7 +302,6 @@ main {
 
 .skills-percentage {
     height: 10px;
-    align-content: left;
     background-color: var(--color-accent);
     margin: 0;
 }
@@ -382,7 +379,6 @@ main {
         top: 150px;
         left: 0px;
         display: block;
-        width: : 100vh;
         height: auto;
         z-index: -1;
     }

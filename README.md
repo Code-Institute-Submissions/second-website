@@ -27,6 +27,7 @@ This website aims to give potential clients an impression of my capacities as bo
 * Responsive on mobile and tablet as well as desktop sizes.
 * The photography page has an intentional side scroll on desktop size. On mobile device sizes the pictures are displayed vertically stacked.
 * The positioning of the wiggling contact buttons in desktop mode is intentional. The bottom border over the header line was a style choice. 
+* Navigation menu is intentionally at the bottom of the page, taking into consideration that the majority of users is expected to be using a mobile device. This provides easy access.
 
 ## Technologies used
 ###Languages used

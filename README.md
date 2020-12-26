@@ -23,6 +23,12 @@ This website aims to give potential clients an impression of my capacities as bo
 	* For the dummy projects, I have used the logo of [Praat mar Frysk](https://www.praatmarfrysk.nl/wp-content/themes/vanilla/framework/images/pmf-noimage.jpg)
 	* The portrait picture used on the 'about me' page, is taken by the talented [Ann Charlotte Voie](http://anncharlottevoie.com)
 
+### Wireframes
+![homepage wireframe desktop](assets/wireframes/desktop/wireframe_landing_desktop.png)
+![homepage wireframe mobile](assets/wireframes/mobile/wireframe_landing_mobile.png)
+
+* Mobile wireframes - (view)[]
+* Desktop wireframes - (view)[]
 
 ## Features
 * Responsive on mobile and tablet as well as desktop sizes.
@@ -46,6 +52,8 @@ This website aims to give potential clients an impression of my capacities as bo
 	* Git was used for version control throughout the whole project by using Github Desktop as well as command lines. 
 * [Github](https://github.com/)
 	* Github is used to store the projects code after being pushed from Git.
+* [Wireframes|cc](https://wireframe.cc)
+	* Wireframes|cc was used for creating the wireframes for this website.
 
 ## Testing
 

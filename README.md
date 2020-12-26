@@ -24,11 +24,10 @@ This website aims to give potential clients an impression of my capacities as bo
 	* The portrait picture used on the 'about me' page, is taken by the talented [Ann Charlotte Voie](http://anncharlottevoie.com)
 
 ### Wireframes
-![homepage wireframe desktop](assets/wireframes/desktop/wireframe_landing_desktop.png)
-![homepage wireframe mobile](assets/wireframes/mobile/wireframe_landing_mobile.png)
+![homepage wireframe desktop](assets/wireframes/desktop/wireframe_landing_desktop.png) ![homepage wireframe mobile](assets/wireframes/mobile/wireframe_landing_mobile.png)
 
-* Mobile wireframes - (view)[]
-* Desktop wireframes - (view)[]
+* Mobile wireframes - [view](https://github.com/jildourixt/second-website/tree/master/assets/wireframes/mobile)
+* Desktop wireframes - [view](https://github.com/jildourixt/second-website/tree/master/assets/wireframes/desktop)
 
 ## Features
 * Responsive on mobile and tablet as well as desktop sizes.

@@ -20,7 +20,6 @@ This website aims to give potential clients an impression of my capacities as bo
 	* The main font used Rubik, which falls back onto sans-serif if unavailable. Share Tech Mono for the logo heading, falling back onto monospace if unavailable.
 * Imagery
 	* The website relies heavily on images. I used my own photography in most spaces. 
-	* For the dummy projects, I have used the logo of [Praat mar Frysk](https://www.praatmarfrysk.nl/wp-content/themes/vanilla/framework/images/pmf-noimage.jpg)
 	* The portrait picture used on the 'about me' page, is taken by the talented [Ann Charlotte Voie](http://anncharlottevoie.com)
 
 ### Wireframes
@@ -72,7 +71,7 @@ Testing was done through W3C markup Validator and the W3C CSS Validator Services
 	* As a first time visitor that is in need of an event photographer, I want to see sharp picture without too many distractions. Pictures should speak for themselves.
 		* The photographs page is easily navigated to and is responsively optimised for each device type. On desktop, the images are displayed horizontally with a side scroll. On mobile display they are stacked vertically.
 	* As a first time visitor that is a hiring manager for software developer positions I want to see a well balanced.
-		* As the page at the moment only holds dummy projects, this is what is contained here. The design shows the logo of the project, along with a short description of it. Each project also has a link to visit the project online, and, for portfolio purposes, a link to the GitHub repository of the project.
+		* A portfolio of finished projects is displayed here. The design shows the logo of the project, along with a short description of it. Each project also has a link to visit the project online, and, for portfolio purposes, a link to the GitHub repository of the project.
 * Returning visitor goals
 	* As a returning visitor I want to have an easy way to contact the services.
 		* The contact buttons that are linked to phone and email are easily accessible on the top of the page.
@@ -122,5 +121,5 @@ Credits and a massive thanks to [W3Schools](https://www.w3schools.com/howto/howt
 Portrait and index page background were taken by the great [Ann Charlotte Voie](www.anncharlottevoie.com
 ). All other pictures were taken by the developer.
 ### Acknowledgements
-* My mentor for continuous helpful feedback. 
-* Tutor support at Code Institute for their support.
+* My mentor for continuous helpful feedback.
+* Tutor support at Code Institute for their support and materials.

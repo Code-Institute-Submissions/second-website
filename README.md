@@ -19,7 +19,7 @@ This website aims to give potential clients an impression of my capacities as bo
 * Typography
 	* The main font used Rubik, which falls back onto sans-serif if unavailable. Share Tech Mono for the logo heading, falling back onto monospace if unavailable.
 * Imagery
-	* The website relies heavily on images. I used my own photography in most spaces. 
+	* The website relies heavily on images. I used my own photography in most spaces.
 	* The portrait picture used on the 'about me' page, is taken by the talented [Ann Charlotte Voie](http://anncharlottevoie.com)
 
 ### Wireframes
@@ -34,7 +34,7 @@ This website aims to give potential clients an impression of my capacities as bo
 * Responsive on mobile and tablet as well as desktop sizes.
 * The photography page has an intentional side scroll on desktop size. On mobile device sizes the pictures are displayed vertically stacked.
 * The positioning of the wiggling contact buttons in desktop mode is intentional. The bottom border over the header line was a style choice. 
-* Navigation menu is intentionally at the bottom of the page, taking into consideration that the majority of users is expected to be using a mobile device. This provides easy access.
+* Navigation menu is intentionally at the bottom of the page, taking into consideration that the majority of users is expected to be using a mobile device. This provides easy access. The navigation bar is designed to be minimal and non-intrusive. On the photography page it allows the images to be displayed as big as possible while being non-intrusive and blending in. 
 
 ## Technologies used
 

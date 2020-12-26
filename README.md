@@ -1,5 +1,7 @@
 # Jildou de Vries photography and projects website
 
+![screenshot landing desktop](assets/img/screenshots/screenshot_landing_desktop.png)
+
 ## User Experience (UX)
 This website aims to give potential clients an impression of my capacities as both a programmer and a photographer.
 
